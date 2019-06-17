@@ -1,3 +1,3 @@
 This repository contains the code for the TechLabs ST19 Project Curaio.
 
-The aim of this project is to predict waves of diseases, especially waves of influenzia.
+In this project we aim at predicting Influenza like Illness rates (ILI) for Germany using historical time series and Google Trends data.
